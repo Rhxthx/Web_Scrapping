@@ -1,6 +1,6 @@
 🛒 Amazon Product Scraper
 
-A Python script to scrape product details from Amazon (Title, Price, Rating, Reviews, Availability) and save them to out.csv.
+A Python script to scrape product details from Amazon (Title, Price, Rating, Reviews, Availability) and save them to Result.csv.
 
 🚀 Features
 
