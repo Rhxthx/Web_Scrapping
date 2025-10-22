@@ -7,7 +7,7 @@ import time
 
 def main(URL):
     # specify CSV file name
-    filename = "out.csv"
+    filename = "Result.csv"
 
     # check if file exists; if not, write headers
     file_exists = os.path.isfile(filename)
